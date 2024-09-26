@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: analyze
+Version: 0.1
+Summary: library of functions for functions for working with stock data
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: independent
+Requires-Python: >=3.6
